@@ -17,4 +17,4 @@ async def on_ready():
 async def rulet(ctx,renk: str,sayi: int ,tc: int,rd: int,to: int,bet: int ):
     await ctx.send(rulett.rulet(renk,sayi,tc,rd,to,bet))
 
-bot.run("MTIwNTU3ODkxMjg5ODQ5MDM5OA.GDQ8QS.oTmVSJTfgi78ko0Z3NBLLV1thVLrGZRIlA0E3s")
+bot.run("")
